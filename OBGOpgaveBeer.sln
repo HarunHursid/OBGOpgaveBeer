@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OBGOpgaveBeer", "OBGOpgaveBeer\OBGOpgaveBeer.csproj", "{996D9367-9B53-4144-A0AD-D9D4992E6F87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OBGOpgaveBeerTests", "OBGOpgaveBeerTests\OBGOpgaveBeerTests.csproj", "{FCC73A8F-1447-4C6F-AADB-381F89120C36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{996D9367-9B53-4144-A0AD-D9D4992E6F87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{996D9367-9B53-4144-A0AD-D9D4992E6F87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{996D9367-9B53-4144-A0AD-D9D4992E6F87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{996D9367-9B53-4144-A0AD-D9D4992E6F87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCC73A8F-1447-4C6F-AADB-381F89120C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC73A8F-1447-4C6F-AADB-381F89120C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC73A8F-1447-4C6F-AADB-381F89120C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC73A8F-1447-4C6F-AADB-381F89120C36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35F66E94-3193-4CFE-8F34-5687758DB7E5}
+	EndGlobalSection
+EndGlobal
